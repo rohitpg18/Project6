@@ -1,0 +1,13 @@
+    units_sold
+    customer_name
+    date_of_sale
+product_name
+
+{
+            "product_id": 1,
+            "units_sold": "2",
+            "customer_name": "Rohit Gunjegaonkar",
+            "date_of_sale": "2022-12-14",
+            "selling_price": "400000"
+
+}
